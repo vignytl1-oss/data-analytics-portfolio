@@ -2,7 +2,7 @@
 A collection of data analytics, machine learning, and business intelligence projects — built with Python, SQL, and visualization tools to solve real-world problems in finance, e-commerce, and market analysis.
 ## Projects
 
-- [Airbnb NYC — Exploratory Data Analysis](./airbnb-nyc-eda) 
+- [Airbnb NYC — Exploratory Data Analysis](./airbnb.ipynb) 
   Cleaned and analyzed 100K+ NYC Airbnb listings to uncover pricing and demand patterns.
 
 - [Sales/Demand Forecasting Model](./sales-demand-forecasting) 
