@@ -5,8 +5,8 @@ A collection of data analytics, machine learning, and business intelligence proj
 - [Airbnb NYC — Exploratory Data Analysis](https://github.com/vignytl1-oss/data-analytics-portfolio/blob/e78d56a19f7d9dba29e5c74fe9c0e74a4d9b1379/Airbnb.ipynb) 
   Cleaned and analyzed 100K+ NYC Airbnb listings to uncover pricing and demand patterns.
 
-- [Sales/Demand Forecasting Model](./sales-demand-forecasting) 
-  Built a predictive model to forecast sales trends from historical data.
+- [Stock Price Time Series Analysis](https://github.com/vignytl1-oss/data-analytics-portfolio/blob/b24d3b00ed961378157f73ff60178186fb794b9f/StockPrice.ipynb)  
+  Analyzed historical stock price trends using moving averages, differencing, and autocorrelation to assess stationarity and underlying market patterns.
 
 - [Real-Time Stock Price Scraper](./stock-price-scraper) 
   Python web scraper (BeautifulSoup) extracting live stock prices to Excel.
